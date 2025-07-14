@@ -1,2 +1,2 @@
-# GIVE-GRUB
+# GIVEGRUB
 Food Donating Application
